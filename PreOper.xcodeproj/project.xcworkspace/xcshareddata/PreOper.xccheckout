@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>39C3DD47-E647-4475-8577-84FE2CFEC63F</string>
+	<key>IDESourceControlProjectName</key>
+	<string>PreOper</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>EE4EEF7F3C9C15272E966AA9AC2614F4C8A60F7D</key>
+		<string>https://github.com/CarlosDParada/PreOper2015.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>PreOper.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>EE4EEF7F3C9C15272E966AA9AC2614F4C8A60F7D</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/CarlosDParada/PreOper2015.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>EE4EEF7F3C9C15272E966AA9AC2614F4C8A60F7D</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>EE4EEF7F3C9C15272E966AA9AC2614F4C8A60F7D</string>
+			<key>IDESourceControlWCCName</key>
+			<string>PreOper</string>
+		</dict>
+	</array>
+</dict>
+</plist>
