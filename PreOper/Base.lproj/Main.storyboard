@@ -434,6 +434,13 @@
                                     <segue destination="BeX-5e-9XI" kind="show" id="91D-RX-bOV"/>
                                 </connections>
                             </button>
+                            <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="avatar.png" translatesAutoresizingMaskIntoConstraints="NO" id="S0b-Eb-Ck5">
+                                <rect key="frame" x="172" y="464" width="240" height="128"/>
+                                <constraints>
+                                    <constraint firstAttribute="height" constant="128" id="Fn3-Py-Kmj"/>
+                                    <constraint firstAttribute="width" constant="240" id="zDZ-Gd-jC0"/>
+                                </constraints>
+                            </imageView>
                         </subviews>
                         <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
                         <constraints>
@@ -442,6 +449,8 @@
                             <constraint firstItem="NGe-WI-SfZ" firstAttribute="top" secondItem="gl3-Pp-IcO" secondAttribute="bottom" constant="33" id="S2h-8r-AvK"/>
                             <constraint firstItem="gl3-Pp-IcO" firstAttribute="top" secondItem="1k4-ih-LAI" secondAttribute="bottom" constant="48" id="ZkP-9U-Tck"/>
                             <constraint firstItem="wsY-WM-efP" firstAttribute="top" secondItem="NGe-WI-SfZ" secondAttribute="bottom" constant="33" id="eXh-Ec-bSb"/>
+                            <constraint firstItem="K82-2W-xbv" firstAttribute="top" secondItem="S0b-Eb-Ck5" secondAttribute="bottom" constant="8" id="oRp-E9-zlg"/>
+                            <constraint firstAttribute="centerX" secondItem="S0b-Eb-Ck5" secondAttribute="centerX" constant="8" id="ohY-hj-QL3"/>
                             <constraint firstItem="NGe-WI-SfZ" firstAttribute="centerX" secondItem="gl3-Pp-IcO" secondAttribute="centerX" id="xPq-yN-jf5"/>
                         </constraints>
                     </view>
@@ -2234,6 +2243,7 @@
         <image name="1.licencia_conduccion_frente.jpg" width="1006" height="538"/>
         <image name="2.SOAT.jpg" width="650" height="213"/>
         <image name="aprenderrrr.jpg" width="1150" height="720"/>
+        <image name="avatar.png" width="486" height="350"/>
         <image name="boti.jpg" width="655" height="357"/>
         <image name="condor.png" width="196" height="196"/>
         <image name="cruzeta.png" width="900" height="636"/>

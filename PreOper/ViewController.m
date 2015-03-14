@@ -23,6 +23,7 @@
 - (void)didReceiveMemoryWarning {
     [super didReceiveMemoryWarning];
     // Dispose of any resources that can be recreated.
+    self.view.backgroundColor = [UIColor colorWithPatternImage:[UIImage imageNamed:@"fondogris1.jpg"]];
 }
 
 -(void)prepareForSegue:(UIStoryboardSegue *)segue sender:(id)sender{

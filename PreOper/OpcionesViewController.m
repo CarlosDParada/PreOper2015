@@ -23,6 +23,8 @@
 
 - (void)didReceiveMemoryWarning {
     [super didReceiveMemoryWarning];
+    
+    self.view.backgroundColor = [UIColor colorWithPatternImage:[UIImage imageNamed:@"fondogris1.jpg"]];
     // Dispose of any resources that can be recreated.
 }
 

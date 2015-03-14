@@ -18,6 +18,7 @@
     [super viewDidLoad];
     //self.title =_userName2;
     self.title =@"Profile";
+    self.view.backgroundColor = [UIColor colorWithPatternImage:[UIImage imageNamed:@"fondogris1.jpg"]];
     
 }
 
