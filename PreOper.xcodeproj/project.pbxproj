@@ -58,6 +58,7 @@
 		D914976B1AB4A1B100AFA5E7 /* 703178_10205429872282198_551346194_o.jpg in Resources */ = {isa = PBXBuildFile; fileRef = D91497671AB4A1B100AFA5E7 /* 703178_10205429872282198_551346194_o.jpg */; };
 		D914976C1AB4A1B100AFA5E7 /* aprender.jpg in Resources */ = {isa = PBXBuildFile; fileRef = D91497681AB4A1B100AFA5E7 /* aprender.jpg */; };
 		D914976F1AB4A9CC00AFA5E7 /* ReportViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = D914976E1AB4A9CC00AFA5E7 /* ReportViewController.m */; };
+		D91497711AB4B07500AFA5E7 /* aprenderrrr.jpg in Resources */ = {isa = PBXBuildFile; fileRef = D91497701AB4B07500AFA5E7 /* aprenderrrr.jpg */; };
 		D98EA35F1AB3D90E001797A1 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = D98EA35E1AB3D90E001797A1 /* main.m */; };
 		D98EA3621AB3D90E001797A1 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = D98EA3611AB3D90E001797A1 /* AppDelegate.m */; };
 		D98EA3651AB3D90E001797A1 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = D98EA3641AB3D90E001797A1 /* ViewController.m */; };
@@ -139,6 +140,7 @@
 		D91497681AB4A1B100AFA5E7 /* aprender.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = aprender.jpg; sourceTree = "<group>"; };
 		D914976D1AB4A9CC00AFA5E7 /* ReportViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ReportViewController.h; sourceTree = "<group>"; };
 		D914976E1AB4A9CC00AFA5E7 /* ReportViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ReportViewController.m; sourceTree = "<group>"; };
+		D91497701AB4B07500AFA5E7 /* aprenderrrr.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = aprenderrrr.jpg; sourceTree = "<group>"; };
 		D98EA3591AB3D90E001797A1 /* PreOper.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = PreOper.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		D98EA35D1AB3D90E001797A1 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		D98EA35E1AB3D90E001797A1 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
@@ -387,6 +389,7 @@
 		D98EA3841AB3D976001797A1 /* Images */ = {
 			isa = PBXGroup;
 			children = (
+				D91497701AB4B07500AFA5E7 /* aprenderrrr.jpg */,
 				D914974B1AB49F1F00AFA5E7 /* fondotriangulos.jpg */,
 				D914975B1AB49FEA00AFA5E7 /* pie1.png */,
 				D914975C1AB49FEA00AFA5E7 /* pie2.png */,
@@ -557,6 +560,7 @@
 				D91497591AB49F1F00AFA5E7 /* piedepagina.jpg in Resources */,
 				D91497561AB49F1F00AFA5E7 /* fondogrislineas.jpg in Resources */,
 				D98EA36A1AB3D90E001797A1 /* Images.xcassets in Resources */,
+				D91497711AB4B07500AFA5E7 /* aprenderrrr.jpg in Resources */,
 				D91497581AB49F1F00AFA5E7 /* 11063274_10205427009530631_1657879689_n.jpg in Resources */,
 				D9C031261AB3E50D00EBB21D /* gris2.jpg in Resources */,
 			);
