@@ -7,7 +7,11 @@
 //
 
 #import <UIKit/UIKit.h>
+#import "NewUserViewController.h"
 
 @interface OpcionesViewController : UIViewController
 
+@property NSString * userName;
+
+@property OpcionesViewController  *opciones2;
 @end

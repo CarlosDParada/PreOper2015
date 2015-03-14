@@ -7,8 +7,14 @@
 //
 
 #import <UIKit/UIKit.h>
-
+#import "OpcionesViewController.h"
+#import "NewUserViewController.h"
 @interface ViewController : UIViewController
+
+@property (strong, nonatomic) IBOutlet UITextField *userText;
+
+@property OpcionesViewController  *opciones;
+@property OpcionesViewController  *opciones2;
 
 
 @end

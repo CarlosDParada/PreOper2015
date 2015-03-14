@@ -7,6 +7,39 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		D91496AA1AB3FAA100AFA5E7 /* AprenderViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = D91496A91AB3FAA100AFA5E7 /* AprenderViewController.m */; };
+		D91496B61AB401BF00AFA5E7 /* llan.png in Resources */ = {isa = PBXBuildFile; fileRef = D91496AB1AB401BF00AFA5E7 /* llan.png */; };
+		D91496B71AB401BF00AFA5E7 /* luce.jpg in Resources */ = {isa = PBXBuildFile; fileRef = D91496AC1AB401BF00AFA5E7 /* luce.jpg */; };
+		D91496B81AB401BF00AFA5E7 /* silla.png in Resources */ = {isa = PBXBuildFile; fileRef = D91496AD1AB401BF00AFA5E7 /* silla.png */; };
+		D91496B91AB401BF00AFA5E7 /* liq.png in Resources */ = {isa = PBXBuildFile; fileRef = D91496AE1AB401BF00AFA5E7 /* liq.png */; };
+		D91496BA1AB401BF00AFA5E7 /* boti.jpg in Resources */ = {isa = PBXBuildFile; fileRef = D91496AF1AB401BF00AFA5E7 /* boti.jpg */; };
+		D91496BB1AB401BF00AFA5E7 /* esp.jpg in Resources */ = {isa = PBXBuildFile; fileRef = D91496B01AB401BF00AFA5E7 /* esp.jpg */; };
+		D91496BC1AB401BF00AFA5E7 /* Screenshot 2014-07-03 10.21.42.png in Resources */ = {isa = PBXBuildFile; fileRef = D91496B11AB401BF00AFA5E7 /* Screenshot 2014-07-03 10.21.42.png */; };
+		D91496BD1AB401BF00AFA5E7 /* freno.png in Resources */ = {isa = PBXBuildFile; fileRef = D91496B21AB401BF00AFA5E7 /* freno.png */; };
+		D91496BE1AB401BF00AFA5E7 /* dire.png in Resources */ = {isa = PBXBuildFile; fileRef = D91496B31AB401BF00AFA5E7 /* dire.png */; };
+		D91496BF1AB401BF00AFA5E7 /* docu.png in Resources */ = {isa = PBXBuildFile; fileRef = D91496B41AB401BF00AFA5E7 /* docu.png */; };
+		D91496C01AB401BF00AFA5E7 /* equi.jpg in Resources */ = {isa = PBXBuildFile; fileRef = D91496B51AB401BF00AFA5E7 /* equi.jpg */; };
+		D91496C21AB4110C00AFA5E7 /* veh.png in Resources */ = {isa = PBXBuildFile; fileRef = D91496C11AB4110C00AFA5E7 /* veh.png */; };
+		D91496C51AB4127600AFA5E7 /* DocumentosViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = D91496C41AB4127600AFA5E7 /* DocumentosViewController.m */; };
+		D91496E51AB4147E00AFA5E7 /* 1.licencia_conduccion_frente.jpg in Resources */ = {isa = PBXBuildFile; fileRef = D91496C81AB4147E00AFA5E7 /* 1.licencia_conduccion_frente.jpg */; };
+		D91496E61AB4147E00AFA5E7 /* 1.licencia_conduccion_reves.jpg in Resources */ = {isa = PBXBuildFile; fileRef = D91496C91AB4147E00AFA5E7 /* 1.licencia_conduccion_reves.jpg */; };
+		D91496E71AB4147E00AFA5E7 /* 2.SOAT.jpg in Resources */ = {isa = PBXBuildFile; fileRef = D91496CA1AB4147E00AFA5E7 /* 2.SOAT.jpg */; };
+		D91496E81AB4147E00AFA5E7 /* 3.rtm.jpg in Resources */ = {isa = PBXBuildFile; fileRef = D91496CB1AB4147E00AFA5E7 /* 3.rtm.jpg */; };
+		D91496E91AB4147E00AFA5E7 /* 4.seguro.jpg in Resources */ = {isa = PBXBuildFile; fileRef = D91496CC1AB4147E00AFA5E7 /* 4.seguro.jpg */; };
+		D91496EA1AB4147E00AFA5E7 /* cinturonSeguridad.PNG in Resources */ = {isa = PBXBuildFile; fileRef = D91496CE1AB4147E00AFA5E7 /* cinturonSeguridad.PNG */; };
+		D91496EB1AB4147E00AFA5E7 /* img.motor.02.jpg in Resources */ = {isa = PBXBuildFile; fileRef = D91496D11AB4147E00AFA5E7 /* img.motor.02.jpg */; };
+		D91496EC1AB4147E00AFA5E7 /* 521cd087d785584ecf8e3806601b8dbd3c6dc09b_m.jpg in Resources */ = {isa = PBXBuildFile; fileRef = D91496D31AB4147E00AFA5E7 /* 521cd087d785584ecf8e3806601b8dbd3c6dc09b_m.jpg */; };
+		D91496ED1AB4147E00AFA5E7 /* 540ae25a20.jpg in Resources */ = {isa = PBXBuildFile; fileRef = D91496D41AB4147E00AFA5E7 /* 540ae25a20.jpg */; };
+		D91496EE1AB4147E00AFA5E7 /* 1.freno_principal.jpg in Resources */ = {isa = PBXBuildFile; fileRef = D91496D61AB4147E00AFA5E7 /* 1.freno_principal.jpg */; };
+		D91496EF1AB4147E00AFA5E7 /* 2.freno_mano.jpg in Resources */ = {isa = PBXBuildFile; fileRef = D91496D71AB4147E00AFA5E7 /* 2.freno_mano.jpg */; };
+		D91496F01AB4147E00AFA5E7 /* llantas.jpg in Resources */ = {isa = PBXBuildFile; fileRef = D91496D91AB4147E00AFA5E7 /* llantas.jpg */; };
+		D91496F11AB4147E00AFA5E7 /* 1.lateral.PNG in Resources */ = {isa = PBXBuildFile; fileRef = D91496DB1AB4147E00AFA5E7 /* 1.lateral.PNG */; };
+		D91496F21AB4147E00AFA5E7 /* 2.retrovisor.PNG in Resources */ = {isa = PBXBuildFile; fileRef = D91496DC1AB4147E00AFA5E7 /* 2.retrovisor.PNG */; };
+		D91496F31AB4147E00AFA5E7 /* pito.PNG in Resources */ = {isa = PBXBuildFile; fileRef = D91496DE1AB4147E00AFA5E7 /* pito.PNG */; };
+		D91496F41AB4147E00AFA5E7 /* 1.nivelFrenos.jpg in Resources */ = {isa = PBXBuildFile; fileRef = D91496E01AB4147E00AFA5E7 /* 1.nivelFrenos.jpg */; };
+		D91496F51AB4147E00AFA5E7 /* 2.nivelAceite.png in Resources */ = {isa = PBXBuildFile; fileRef = D91496E11AB4147E00AFA5E7 /* 2.nivelAceite.png */; };
+		D91496F61AB4147E00AFA5E7 /* 3.nivelRefrigerante.png in Resources */ = {isa = PBXBuildFile; fileRef = D91496E21AB4147E00AFA5E7 /* 3.nivelRefrigerante.png */; };
+		D91496F71AB4147E00AFA5E7 /* apoyacabezas.PNG in Resources */ = {isa = PBXBuildFile; fileRef = D91496E41AB4147E00AFA5E7 /* apoyacabezas.PNG */; };
 		D98EA35F1AB3D90E001797A1 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = D98EA35E1AB3D90E001797A1 /* main.m */; };
 		D98EA3621AB3D90E001797A1 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = D98EA3611AB3D90E001797A1 /* AppDelegate.m */; };
 		D98EA3651AB3D90E001797A1 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = D98EA3641AB3D90E001797A1 /* ViewController.m */; };
@@ -14,6 +47,13 @@
 		D98EA36A1AB3D90E001797A1 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D98EA3691AB3D90E001797A1 /* Images.xcassets */; };
 		D98EA36D1AB3D90E001797A1 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = D98EA36B1AB3D90E001797A1 /* LaunchScreen.xib */; };
 		D98EA3791AB3D90E001797A1 /* PreOperTests.m in Sources */ = {isa = PBXBuildFile; fileRef = D98EA3781AB3D90E001797A1 /* PreOperTests.m */; };
+		D98EA3861AB3DBDE001797A1 /* logoPreOper.png in Resources */ = {isa = PBXBuildFile; fileRef = D98EA3851AB3DBDE001797A1 /* logoPreOper.png */; };
+		D98EA3891AB3E009001797A1 /* logo2.png in Resources */ = {isa = PBXBuildFile; fileRef = D98EA3871AB3E009001797A1 /* logo2.png */; };
+		D98EA38A1AB3E009001797A1 /* logo1.jpg in Resources */ = {isa = PBXBuildFile; fileRef = D98EA3881AB3E009001797A1 /* logo1.jpg */; };
+		D9C031251AB3E50D00EBB21D /* gris1.jpg in Resources */ = {isa = PBXBuildFile; fileRef = D9C031231AB3E50D00EBB21D /* gris1.jpg */; };
+		D9C031261AB3E50D00EBB21D /* gris2.jpg in Resources */ = {isa = PBXBuildFile; fileRef = D9C031241AB3E50D00EBB21D /* gris2.jpg */; };
+		D9C031291AB3EBB800EBB21D /* OpcionesViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = D9C031281AB3EBB800EBB21D /* OpcionesViewController.m */; };
+		D9C0312C1AB3EF7500EBB21D /* NewUserViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = D9C0312B1AB3EF7500EBB21D /* NewUserViewController.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -27,6 +67,41 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		D91496A81AB3FAA100AFA5E7 /* AprenderViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AprenderViewController.h; sourceTree = "<group>"; };
+		D91496A91AB3FAA100AFA5E7 /* AprenderViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AprenderViewController.m; sourceTree = "<group>"; };
+		D91496AB1AB401BF00AFA5E7 /* llan.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = llan.png; sourceTree = "<group>"; };
+		D91496AC1AB401BF00AFA5E7 /* luce.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = luce.jpg; sourceTree = "<group>"; };
+		D91496AD1AB401BF00AFA5E7 /* silla.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = silla.png; sourceTree = "<group>"; };
+		D91496AE1AB401BF00AFA5E7 /* liq.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = liq.png; sourceTree = "<group>"; };
+		D91496AF1AB401BF00AFA5E7 /* boti.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = boti.jpg; sourceTree = "<group>"; };
+		D91496B01AB401BF00AFA5E7 /* esp.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = esp.jpg; sourceTree = "<group>"; };
+		D91496B11AB401BF00AFA5E7 /* Screenshot 2014-07-03 10.21.42.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Screenshot 2014-07-03 10.21.42.png"; sourceTree = "<group>"; };
+		D91496B21AB401BF00AFA5E7 /* freno.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = freno.png; sourceTree = "<group>"; };
+		D91496B31AB401BF00AFA5E7 /* dire.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = dire.png; sourceTree = "<group>"; };
+		D91496B41AB401BF00AFA5E7 /* docu.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = docu.png; sourceTree = "<group>"; };
+		D91496B51AB401BF00AFA5E7 /* equi.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = equi.jpg; sourceTree = "<group>"; };
+		D91496C11AB4110C00AFA5E7 /* veh.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = veh.png; sourceTree = "<group>"; };
+		D91496C31AB4127600AFA5E7 /* DocumentosViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = DocumentosViewController.h; sourceTree = "<group>"; };
+		D91496C41AB4127600AFA5E7 /* DocumentosViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = DocumentosViewController.m; sourceTree = "<group>"; };
+		D91496C81AB4147E00AFA5E7 /* 1.licencia_conduccion_frente.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 1.licencia_conduccion_frente.jpg; sourceTree = "<group>"; };
+		D91496C91AB4147E00AFA5E7 /* 1.licencia_conduccion_reves.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 1.licencia_conduccion_reves.jpg; sourceTree = "<group>"; };
+		D91496CA1AB4147E00AFA5E7 /* 2.SOAT.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 2.SOAT.jpg; sourceTree = "<group>"; };
+		D91496CB1AB4147E00AFA5E7 /* 3.rtm.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 3.rtm.jpg; sourceTree = "<group>"; };
+		D91496CC1AB4147E00AFA5E7 /* 4.seguro.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 4.seguro.jpg; sourceTree = "<group>"; };
+		D91496CE1AB4147E00AFA5E7 /* cinturonSeguridad.PNG */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = cinturonSeguridad.PNG; sourceTree = "<group>"; };
+		D91496D11AB4147E00AFA5E7 /* img.motor.02.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = img.motor.02.jpg; sourceTree = "<group>"; };
+		D91496D31AB4147E00AFA5E7 /* 521cd087d785584ecf8e3806601b8dbd3c6dc09b_m.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 521cd087d785584ecf8e3806601b8dbd3c6dc09b_m.jpg; sourceTree = "<group>"; };
+		D91496D41AB4147E00AFA5E7 /* 540ae25a20.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 540ae25a20.jpg; sourceTree = "<group>"; };
+		D91496D61AB4147E00AFA5E7 /* 1.freno_principal.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 1.freno_principal.jpg; sourceTree = "<group>"; };
+		D91496D71AB4147E00AFA5E7 /* 2.freno_mano.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 2.freno_mano.jpg; sourceTree = "<group>"; };
+		D91496D91AB4147E00AFA5E7 /* llantas.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = llantas.jpg; sourceTree = "<group>"; };
+		D91496DB1AB4147E00AFA5E7 /* 1.lateral.PNG */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 1.lateral.PNG; sourceTree = "<group>"; };
+		D91496DC1AB4147E00AFA5E7 /* 2.retrovisor.PNG */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 2.retrovisor.PNG; sourceTree = "<group>"; };
+		D91496DE1AB4147E00AFA5E7 /* pito.PNG */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = pito.PNG; sourceTree = "<group>"; };
+		D91496E01AB4147E00AFA5E7 /* 1.nivelFrenos.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 1.nivelFrenos.jpg; sourceTree = "<group>"; };
+		D91496E11AB4147E00AFA5E7 /* 2.nivelAceite.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 2.nivelAceite.png; sourceTree = "<group>"; };
+		D91496E21AB4147E00AFA5E7 /* 3.nivelRefrigerante.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 3.nivelRefrigerante.png; sourceTree = "<group>"; };
+		D91496E41AB4147E00AFA5E7 /* apoyacabezas.PNG */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = apoyacabezas.PNG; sourceTree = "<group>"; };
 		D98EA3591AB3D90E001797A1 /* PreOper.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = PreOper.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		D98EA35D1AB3D90E001797A1 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		D98EA35E1AB3D90E001797A1 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
@@ -40,6 +115,15 @@
 		D98EA3721AB3D90E001797A1 /* PreOperTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = PreOperTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		D98EA3771AB3D90E001797A1 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		D98EA3781AB3D90E001797A1 /* PreOperTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = PreOperTests.m; sourceTree = "<group>"; };
+		D98EA3851AB3DBDE001797A1 /* logoPreOper.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = logoPreOper.png; sourceTree = "<group>"; };
+		D98EA3871AB3E009001797A1 /* logo2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = logo2.png; sourceTree = "<group>"; };
+		D98EA3881AB3E009001797A1 /* logo1.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = logo1.jpg; sourceTree = "<group>"; };
+		D9C031231AB3E50D00EBB21D /* gris1.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = gris1.jpg; sourceTree = "<group>"; };
+		D9C031241AB3E50D00EBB21D /* gris2.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = gris2.jpg; sourceTree = "<group>"; };
+		D9C031271AB3EBB800EBB21D /* OpcionesViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = OpcionesViewController.h; sourceTree = "<group>"; };
+		D9C031281AB3EBB800EBB21D /* OpcionesViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = OpcionesViewController.m; sourceTree = "<group>"; };
+		D9C0312A1AB3EF7500EBB21D /* NewUserViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = NewUserViewController.h; sourceTree = "<group>"; };
+		D9C0312B1AB3EF7500EBB21D /* NewUserViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = NewUserViewController.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +144,120 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		D91496C61AB4147E00AFA5E7 /* IMAGENES-cappacitate2015 */ = {
+			isa = PBXGroup;
+			children = (
+				D91496C71AB4147E00AFA5E7 /* 1.Documentos */,
+				D91496CD1AB4147E00AFA5E7 /* 10.CinturonSeguridad */,
+				D91496CF1AB4147E00AFA5E7 /* 11.EQUIPOSEGURIDAD */,
+				D91496D01AB4147E00AFA5E7 /* 2.DirecionalesYLuces */,
+				D91496D21AB4147E00AFA5E7 /* 3.Limpiabrisas */,
+				D91496D51AB4147E00AFA5E7 /* 4.Frenos */,
+				D91496D81AB4147E00AFA5E7 /* 5.Llantas */,
+				D91496DA1AB4147E00AFA5E7 /* 6.Espejos */,
+				D91496DD1AB4147E00AFA5E7 /* 7.Pito */,
+				D91496DF1AB4147E00AFA5E7 /* 8.NivelesFluidos */,
+				D91496E31AB4147E00AFA5E7 /* 9.Apoyacabezas */,
+			);
+			path = "IMAGENES-cappacitate2015";
+			sourceTree = "<group>";
+		};
+		D91496C71AB4147E00AFA5E7 /* 1.Documentos */ = {
+			isa = PBXGroup;
+			children = (
+				D91496C81AB4147E00AFA5E7 /* 1.licencia_conduccion_frente.jpg */,
+				D91496C91AB4147E00AFA5E7 /* 1.licencia_conduccion_reves.jpg */,
+				D91496CA1AB4147E00AFA5E7 /* 2.SOAT.jpg */,
+				D91496CB1AB4147E00AFA5E7 /* 3.rtm.jpg */,
+				D91496CC1AB4147E00AFA5E7 /* 4.seguro.jpg */,
+			);
+			path = 1.Documentos;
+			sourceTree = "<group>";
+		};
+		D91496CD1AB4147E00AFA5E7 /* 10.CinturonSeguridad */ = {
+			isa = PBXGroup;
+			children = (
+				D91496CE1AB4147E00AFA5E7 /* cinturonSeguridad.PNG */,
+			);
+			path = 10.CinturonSeguridad;
+			sourceTree = "<group>";
+		};
+		D91496CF1AB4147E00AFA5E7 /* 11.EQUIPOSEGURIDAD */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = 11.EQUIPOSEGURIDAD;
+			sourceTree = "<group>";
+		};
+		D91496D01AB4147E00AFA5E7 /* 2.DirecionalesYLuces */ = {
+			isa = PBXGroup;
+			children = (
+				D91496D11AB4147E00AFA5E7 /* img.motor.02.jpg */,
+			);
+			path = 2.DirecionalesYLuces;
+			sourceTree = "<group>";
+		};
+		D91496D21AB4147E00AFA5E7 /* 3.Limpiabrisas */ = {
+			isa = PBXGroup;
+			children = (
+				D91496D31AB4147E00AFA5E7 /* 521cd087d785584ecf8e3806601b8dbd3c6dc09b_m.jpg */,
+				D91496D41AB4147E00AFA5E7 /* 540ae25a20.jpg */,
+			);
+			path = 3.Limpiabrisas;
+			sourceTree = "<group>";
+		};
+		D91496D51AB4147E00AFA5E7 /* 4.Frenos */ = {
+			isa = PBXGroup;
+			children = (
+				D91496D61AB4147E00AFA5E7 /* 1.freno_principal.jpg */,
+				D91496D71AB4147E00AFA5E7 /* 2.freno_mano.jpg */,
+			);
+			path = 4.Frenos;
+			sourceTree = "<group>";
+		};
+		D91496D81AB4147E00AFA5E7 /* 5.Llantas */ = {
+			isa = PBXGroup;
+			children = (
+				D91496D91AB4147E00AFA5E7 /* llantas.jpg */,
+			);
+			path = 5.Llantas;
+			sourceTree = "<group>";
+		};
+		D91496DA1AB4147E00AFA5E7 /* 6.Espejos */ = {
+			isa = PBXGroup;
+			children = (
+				D91496DB1AB4147E00AFA5E7 /* 1.lateral.PNG */,
+				D91496DC1AB4147E00AFA5E7 /* 2.retrovisor.PNG */,
+			);
+			path = 6.Espejos;
+			sourceTree = "<group>";
+		};
+		D91496DD1AB4147E00AFA5E7 /* 7.Pito */ = {
+			isa = PBXGroup;
+			children = (
+				D91496DE1AB4147E00AFA5E7 /* pito.PNG */,
+			);
+			path = 7.Pito;
+			sourceTree = "<group>";
+		};
+		D91496DF1AB4147E00AFA5E7 /* 8.NivelesFluidos */ = {
+			isa = PBXGroup;
+			children = (
+				D91496E01AB4147E00AFA5E7 /* 1.nivelFrenos.jpg */,
+				D91496E11AB4147E00AFA5E7 /* 2.nivelAceite.png */,
+				D91496E21AB4147E00AFA5E7 /* 3.nivelRefrigerante.png */,
+			);
+			path = 8.NivelesFluidos;
+			sourceTree = "<group>";
+		};
+		D91496E31AB4147E00AFA5E7 /* 9.Apoyacabezas */ = {
+			isa = PBXGroup;
+			children = (
+				D91496E41AB4147E00AFA5E7 /* apoyacabezas.PNG */,
+			);
+			path = 9.Apoyacabezas;
+			sourceTree = "<group>";
+		};
 		D98EA3501AB3D90E001797A1 = {
 			isa = PBXGroup;
 			children = (
@@ -81,11 +279,11 @@
 		D98EA35B1AB3D90E001797A1 /* PreOper */ = {
 			isa = PBXGroup;
 			children = (
+				D98EA3841AB3D976001797A1 /* Images */,
+				D98EA3831AB3D96F001797A1 /* Controller */,
+				D98EA3821AB3D933001797A1 /* View */,
 				D98EA3601AB3D90E001797A1 /* AppDelegate.h */,
 				D98EA3611AB3D90E001797A1 /* AppDelegate.m */,
-				D98EA3631AB3D90E001797A1 /* ViewController.h */,
-				D98EA3641AB3D90E001797A1 /* ViewController.m */,
-				D98EA3661AB3D90E001797A1 /* Main.storyboard */,
 				D98EA3691AB3D90E001797A1 /* Images.xcassets */,
 				D98EA36B1AB3D90E001797A1 /* LaunchScreen.xib */,
 				D98EA35C1AB3D90E001797A1 /* Supporting Files */,
@@ -117,6 +315,56 @@
 				D98EA3771AB3D90E001797A1 /* Info.plist */,
 			);
 			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		D98EA3821AB3D933001797A1 /* View */ = {
+			isa = PBXGroup;
+			children = (
+				D98EA3661AB3D90E001797A1 /* Main.storyboard */,
+			);
+			name = View;
+			sourceTree = "<group>";
+		};
+		D98EA3831AB3D96F001797A1 /* Controller */ = {
+			isa = PBXGroup;
+			children = (
+				D98EA3631AB3D90E001797A1 /* ViewController.h */,
+				D98EA3641AB3D90E001797A1 /* ViewController.m */,
+				D9C031271AB3EBB800EBB21D /* OpcionesViewController.h */,
+				D9C031281AB3EBB800EBB21D /* OpcionesViewController.m */,
+				D9C0312A1AB3EF7500EBB21D /* NewUserViewController.h */,
+				D9C0312B1AB3EF7500EBB21D /* NewUserViewController.m */,
+				D91496A81AB3FAA100AFA5E7 /* AprenderViewController.h */,
+				D91496A91AB3FAA100AFA5E7 /* AprenderViewController.m */,
+				D91496C31AB4127600AFA5E7 /* DocumentosViewController.h */,
+				D91496C41AB4127600AFA5E7 /* DocumentosViewController.m */,
+			);
+			name = Controller;
+			sourceTree = "<group>";
+		};
+		D98EA3841AB3D976001797A1 /* Images */ = {
+			isa = PBXGroup;
+			children = (
+				D91496C61AB4147E00AFA5E7 /* IMAGENES-cappacitate2015 */,
+				D91496C11AB4110C00AFA5E7 /* veh.png */,
+				D91496AB1AB401BF00AFA5E7 /* llan.png */,
+				D91496AC1AB401BF00AFA5E7 /* luce.jpg */,
+				D91496AD1AB401BF00AFA5E7 /* silla.png */,
+				D91496AE1AB401BF00AFA5E7 /* liq.png */,
+				D91496AF1AB401BF00AFA5E7 /* boti.jpg */,
+				D91496B01AB401BF00AFA5E7 /* esp.jpg */,
+				D91496B11AB401BF00AFA5E7 /* Screenshot 2014-07-03 10.21.42.png */,
+				D91496B21AB401BF00AFA5E7 /* freno.png */,
+				D91496B31AB401BF00AFA5E7 /* dire.png */,
+				D91496B41AB401BF00AFA5E7 /* docu.png */,
+				D91496B51AB401BF00AFA5E7 /* equi.jpg */,
+				D9C031231AB3E50D00EBB21D /* gris1.jpg */,
+				D9C031241AB3E50D00EBB21D /* gris2.jpg */,
+				D98EA3851AB3DBDE001797A1 /* logoPreOper.png */,
+				D98EA3871AB3E009001797A1 /* logo2.png */,
+				D98EA3881AB3E009001797A1 /* logo1.jpg */,
+			);
+			name = Images;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -199,9 +447,45 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				D91496B91AB401BF00AFA5E7 /* liq.png in Resources */,
+				D9C031251AB3E50D00EBB21D /* gris1.jpg in Resources */,
+				D91496F41AB4147E00AFA5E7 /* 1.nivelFrenos.jpg in Resources */,
+				D91496F61AB4147E00AFA5E7 /* 3.nivelRefrigerante.png in Resources */,
+				D91496BF1AB401BF00AFA5E7 /* docu.png in Resources */,
+				D91496E71AB4147E00AFA5E7 /* 2.SOAT.jpg in Resources */,
+				D91496ED1AB4147E00AFA5E7 /* 540ae25a20.jpg in Resources */,
+				D91496BB1AB401BF00AFA5E7 /* esp.jpg in Resources */,
+				D91496F51AB4147E00AFA5E7 /* 2.nivelAceite.png in Resources */,
+				D91496BE1AB401BF00AFA5E7 /* dire.png in Resources */,
+				D91496E51AB4147E00AFA5E7 /* 1.licencia_conduccion_frente.jpg in Resources */,
+				D91496F31AB4147E00AFA5E7 /* pito.PNG in Resources */,
+				D91496F11AB4147E00AFA5E7 /* 1.lateral.PNG in Resources */,
+				D91496EE1AB4147E00AFA5E7 /* 1.freno_principal.jpg in Resources */,
+				D91496F21AB4147E00AFA5E7 /* 2.retrovisor.PNG in Resources */,
+				D91496F01AB4147E00AFA5E7 /* llantas.jpg in Resources */,
+				D98EA3861AB3DBDE001797A1 /* logoPreOper.png in Resources */,
+				D91496B61AB401BF00AFA5E7 /* llan.png in Resources */,
+				D91496C01AB401BF00AFA5E7 /* equi.jpg in Resources */,
+				D91496EA1AB4147E00AFA5E7 /* cinturonSeguridad.PNG in Resources */,
+				D91496EB1AB4147E00AFA5E7 /* img.motor.02.jpg in Resources */,
+				D91496B81AB401BF00AFA5E7 /* silla.png in Resources */,
+				D91496EF1AB4147E00AFA5E7 /* 2.freno_mano.jpg in Resources */,
+				D91496BD1AB401BF00AFA5E7 /* freno.png in Resources */,
+				D91496F71AB4147E00AFA5E7 /* apoyacabezas.PNG in Resources */,
+				D91496BA1AB401BF00AFA5E7 /* boti.jpg in Resources */,
+				D98EA3891AB3E009001797A1 /* logo2.png in Resources */,
+				D91496BC1AB401BF00AFA5E7 /* Screenshot 2014-07-03 10.21.42.png in Resources */,
+				D91496EC1AB4147E00AFA5E7 /* 521cd087d785584ecf8e3806601b8dbd3c6dc09b_m.jpg in Resources */,
+				D91496C21AB4110C00AFA5E7 /* veh.png in Resources */,
+				D91496E61AB4147E00AFA5E7 /* 1.licencia_conduccion_reves.jpg in Resources */,
 				D98EA3681AB3D90E001797A1 /* Main.storyboard in Resources */,
+				D91496E91AB4147E00AFA5E7 /* 4.seguro.jpg in Resources */,
 				D98EA36D1AB3D90E001797A1 /* LaunchScreen.xib in Resources */,
+				D91496B71AB401BF00AFA5E7 /* luce.jpg in Resources */,
+				D91496E81AB4147E00AFA5E7 /* 3.rtm.jpg in Resources */,
+				D98EA38A1AB3E009001797A1 /* logo1.jpg in Resources */,
 				D98EA36A1AB3D90E001797A1 /* Images.xcassets in Resources */,
+				D9C031261AB3E50D00EBB21D /* gris2.jpg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -221,7 +505,11 @@
 			files = (
 				D98EA3651AB3D90E001797A1 /* ViewController.m in Sources */,
 				D98EA3621AB3D90E001797A1 /* AppDelegate.m in Sources */,
+				D9C031291AB3EBB800EBB21D /* OpcionesViewController.m in Sources */,
+				D91496AA1AB3FAA100AFA5E7 /* AprenderViewController.m in Sources */,
 				D98EA35F1AB3D90E001797A1 /* main.m in Sources */,
+				D9C0312C1AB3EF7500EBB21D /* NewUserViewController.m in Sources */,
+				D91496C51AB4127600AFA5E7 /* DocumentosViewController.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -343,6 +631,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
 				INFOPLIST_FILE = PreOper/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -353,6 +642,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
 				INFOPLIST_FILE = PreOper/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -412,6 +702,7 @@
 				D98EA37E1AB3D90E001797A1 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		D98EA37F1AB3D90E001797A1 /* Build configuration list for PBXNativeTarget "PreOperTests" */ = {
 			isa = XCConfigurationList;
@@ -420,6 +711,7 @@
 				D98EA3811AB3D90E001797A1 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

@@ -16,7 +16,9 @@
 
 - (void)viewDidLoad {
     [super viewDidLoad];
-    // Do any additional setup after loading the view.
+ self.title =_userName;
+    
+    
 }
 
 - (void)didReceiveMemoryWarning {
@@ -24,14 +26,24 @@
     // Dispose of any resources that can be recreated.
 }
 
-/*
+
 #pragma mark - Navigation
 
 // In a storyboard-based application, you will often want to do a little preparation before navigation
-- (void)prepareForSegue:(UIStoryboardSegue *)segue sender:(id)sender {
-    // Get the new view controller using [segue destinationViewController].
-    // Pass the selected object to the new view controller.
-}
-*/
 
+// pasar a la siguiente vista el id
+
+-(void)prepareForSegue:(UIStoryboardSegue *)segue sender:(id)sender{
+    if ([segue.identifier isEqualToString:@"profile"]){
+        
+        UINavigationController *nav = segue.destinationViewController;
+        NewUserViewController *vista = (NewUserViewController *)nav.topViewController;
+        //Para donde va             //Para Donde Va
+        NSString *intro = _userName;
+        //Varaible de donde Viene
+        vista.userName2=intro;
+        
+    }
+}
+    
 @end

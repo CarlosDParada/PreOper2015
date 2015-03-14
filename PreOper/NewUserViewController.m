@@ -16,7 +16,9 @@
 
 - (void)viewDidLoad {
     [super viewDidLoad];
-    // Do any additional setup after loading the view.
+    //self.title =_userName2;
+    self.title =@"Profile";
+    
 }
 
 - (void)didReceiveMemoryWarning {

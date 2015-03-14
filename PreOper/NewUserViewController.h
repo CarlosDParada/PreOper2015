@@ -10,4 +10,6 @@
 
 @interface NewUserViewController : UIViewController
 
+@property NSString * userName2;
+
 @end
